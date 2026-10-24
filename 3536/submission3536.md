@@ -19,7 +19,7 @@ OJ3536 - [LEARNING LOGS] isPrime_large
 ```
 
 OJ submission ID ถ้ามีการส่งแล้ว:
-
+694419
 ```text
 
 ```
