@@ -21,7 +21,7 @@ OJ3537 - [LEARNING LOGS] Impostor
 OJ submission ID ถ้ามีการส่งแล้ว:
 
 ```text
-
+695065
 ```
 
 สถานะ OJ:
